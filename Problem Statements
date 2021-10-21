@@ -1,6 +1,6 @@
 These are some of the problems given in this repo -
-            1. STORING NUMBERS
-            2. STORING BLOCK OF NUMBERS
+            1. STORING NUMBERS IN DATA BLOCKS
+            2. STORING BLOCK OF NUMBERS IN A SERIES
             3. ADDING 2 NUMBERS
             4. ADDING BLOCK OF NUMBERS
             5. SUBTRACTING 2 NUMBERS
@@ -9,6 +9,6 @@ These are some of the problems given in this repo -
             8. FIBONACCI SERIES
             9. FACTORIAL OF A NUMBER
             10. COUNT OF A NUMBER PRESENT IN AN ARRAY
-            12. SORTING
+            12. SORTING NUMBERS STORED IN CONTIGUOUS DATA BLOCKS
             13. COMPARING NUMBERS
             14. POWER OF A NUMBER
